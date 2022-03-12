@@ -1,0 +1,2325 @@
+Testing for 50 sorted elements
+0.Bubble sort took 93 microseconds
+1.Bubble sort took 91 microseconds
+2.Bubble sort took 97 microseconds
+3.Bubble sort took 91 microseconds
+4.Bubble sort took 92 microseconds
+5.Bubble sort took 93 microseconds
+6.Bubble sort took 93 microseconds
+7.Bubble sort took 91 microseconds
+8.Bubble sort took 118 microseconds
+9.Bubble sort took 92 microseconds
+
+
+Testing for 100 sorted elements
+0.Bubble sort took 352 microseconds
+1.Bubble sort took 393 microseconds
+2.Bubble sort took 372 microseconds
+3.Bubble sort took 405 microseconds
+4.Bubble sort took 357 microseconds
+5.Bubble sort took 359 microseconds
+6.Bubble sort took 382 microseconds
+7.Bubble sort took 344 microseconds
+8.Bubble sort took 340 microseconds
+9.Bubble sort took 367 microseconds
+
+
+Testing for 1000 sorted elements
+0.Bubble sort took 40.10 milliseconds
+1.Bubble sort took 41.64 milliseconds
+2.Bubble sort took 39.98 milliseconds
+3.Bubble sort took 42.42 milliseconds
+4.Bubble sort took 41.01 milliseconds
+5.Bubble sort took 40.05 milliseconds
+6.Bubble sort took 39.38 milliseconds
+7.Bubble sort took 38.66 milliseconds
+8.Bubble sort took 38.76 milliseconds
+9.Bubble sort took 39.35 milliseconds
+
+
+Testing for 10000 sorted elements
+0.Bubble sort took 4 seconds and 280.81 milliseconds
+1.Bubble sort took 4 seconds and 249.56 milliseconds
+2.Bubble sort took 4 seconds and 291.81 milliseconds
+3.Bubble sort took 4 seconds and 400.84 milliseconds
+4.Bubble sort took 4 seconds and 338.81 milliseconds
+5.Bubble sort took 4 seconds and 277.18 milliseconds
+6.Bubble sort took 4 seconds and 247.19 milliseconds
+7.Bubble sort took 4 seconds and 258.16 milliseconds
+8.Bubble sort took 4 seconds and 289.78 milliseconds
+9.Bubble sort took 4 seconds and 264.07 milliseconds
+
+
+Testing for 50 random elements
+0.Bubble sort took 145 microseconds
+1.Bubble sort took 141 microseconds
+2.Bubble sort took 139 microseconds
+3.Bubble sort took 136 microseconds
+4.Bubble sort took 223 microseconds
+5.Bubble sort took 214 microseconds
+6.Bubble sort took 168 microseconds
+7.Bubble sort took 262 microseconds
+8.Bubble sort took 186 microseconds
+9.Bubble sort took 135 microseconds
+
+
+Testing for 100 random elements
+0.Bubble sort took 726 microseconds
+1.Bubble sort took 666 microseconds
+2.Bubble sort took 593 microseconds
+3.Bubble sort took 652 microseconds
+4.Bubble sort took 697 microseconds
+5.Bubble sort took 549 microseconds
+6.Bubble sort took 619 microseconds
+7.Bubble sort took 545 microseconds
+8.Bubble sort took 576 microseconds
+9.Bubble sort took 658 microseconds
+
+
+Testing for 1000 random elements
+0.Bubble sort took 72.55 milliseconds
+1.Bubble sort took 68.66 milliseconds
+2.Bubble sort took 69.64 milliseconds
+3.Bubble sort took 73.70 milliseconds
+4.Bubble sort took 71.98 milliseconds
+5.Bubble sort took 70.05 milliseconds
+6.Bubble sort took 69.66 milliseconds
+7.Bubble sort took 70.11 milliseconds
+8.Bubble sort took 70.48 milliseconds
+9.Bubble sort took 69.79 milliseconds
+
+
+Testing for 10000 random elements
+0.Bubble sort took 7 seconds and 519.42 milliseconds
+1.Bubble sort took 7 seconds and 550.90 milliseconds
+2.Bubble sort took 7 seconds and 543.88 milliseconds
+3.Bubble sort took 7 seconds and 568.11 milliseconds
+4.Bubble sort took 7 seconds and 341.57 milliseconds
+5.Bubble sort took 7 seconds and 301.16 milliseconds
+6.Bubble sort took 7 seconds and 324.01 milliseconds
+7.Bubble sort took 7 seconds and 325.82 milliseconds
+8.Bubble sort took 7 seconds and 350.26 milliseconds
+9.Bubble sort took 7 seconds and 540.18 milliseconds
+
+
+Testing for 50 mostly sorted elements
+0.Bubble sort took 87 microseconds
+1.Bubble sort took 147 microseconds
+2.Bubble sort took 87 microseconds
+3.Bubble sort took 91 microseconds
+4.Bubble sort took 90 microseconds
+5.Bubble sort took 86 microseconds
+6.Bubble sort took 84 microseconds
+7.Bubble sort took 87 microseconds
+8.Bubble sort took 87 microseconds
+9.Bubble sort took 86 microseconds
+
+
+Testing for 100 mostly sorted elements
+0.Bubble sort took 337 microseconds
+1.Bubble sort took 331 microseconds
+2.Bubble sort took 336 microseconds
+3.Bubble sort took 327 microseconds
+4.Bubble sort took 332 microseconds
+5.Bubble sort took 357 microseconds
+6.Bubble sort took 414 microseconds
+7.Bubble sort took 424 microseconds
+8.Bubble sort took 407 microseconds
+9.Bubble sort took 491 microseconds
+
+
+Testing for 1000 mostly sorted elements
+0.Bubble sort took 40.57 milliseconds
+1.Bubble sort took 40.31 milliseconds
+2.Bubble sort took 41.75 milliseconds
+3.Bubble sort took 40.47 milliseconds
+4.Bubble sort took 41.11 milliseconds
+5.Bubble sort took 41.95 milliseconds
+6.Bubble sort took 40.89 milliseconds
+7.Bubble sort took 39.62 milliseconds
+8.Bubble sort took 42.23 milliseconds
+9.Bubble sort took 40.65 milliseconds
+
+
+Testing for 10000 mostly sorted elements
+0.Bubble sort took 4 seconds and 528.66 milliseconds
+1.Bubble sort took 4 seconds and 507.06 milliseconds
+2.Bubble sort took 4 seconds and 453.57 milliseconds
+3.Bubble sort took 4 seconds and 606.13 milliseconds
+4.Bubble sort took 4 seconds and 473.32 milliseconds
+5.Bubble sort took 4 seconds and 424.07 milliseconds
+6.Bubble sort took 4 seconds and 423.59 milliseconds
+7.Bubble sort took 4 seconds and 403.39 milliseconds
+8.Bubble sort took 4 seconds and 420.72 milliseconds
+9.Bubble sort took 4 seconds and 421.22 milliseconds
+
+
+Testing for 50 elements of which 10% are unique
+0.Bubble sort took 147 microseconds
+1.Bubble sort took 150 microseconds
+2.Bubble sort took 146 microseconds
+3.Bubble sort took 147 microseconds
+4.Bubble sort took 144 microseconds
+5.Bubble sort took 143 microseconds
+6.Bubble sort took 145 microseconds
+7.Bubble sort took 150 microseconds
+8.Bubble sort took 140 microseconds
+9.Bubble sort took 142 microseconds
+
+
+Testing for 100 elements of which 10% are unique
+0.Bubble sort took 575 microseconds
+1.Bubble sort took 626 microseconds
+2.Bubble sort took 651 microseconds
+3.Bubble sort took 539 microseconds
+4.Bubble sort took 591 microseconds
+5.Bubble sort took 661 microseconds
+6.Bubble sort took 681 microseconds
+7.Bubble sort took 766 microseconds
+8.Bubble sort took 521 microseconds
+9.Bubble sort took 550 microseconds
+
+
+Testing for 1000 elements of which 10% are unique
+0.Bubble sort took 66.41 milliseconds
+1.Bubble sort took 68.54 milliseconds
+2.Bubble sort took 65.75 milliseconds
+3.Bubble sort took 65.08 milliseconds
+4.Bubble sort took 63.89 milliseconds
+5.Bubble sort took 65.92 milliseconds
+6.Bubble sort took 65.29 milliseconds
+7.Bubble sort took 65.55 milliseconds
+8.Bubble sort took 66.55 milliseconds
+9.Bubble sort took 66.70 milliseconds
+
+
+Testing for 10000 elements of which 10% are unique
+0.Bubble sort took 6 seconds and 973.41 milliseconds
+1.Bubble sort took 6 seconds and 903.50 milliseconds
+2.Bubble sort took 6 seconds and 960.32 milliseconds
+3.Bubble sort took 6 seconds and 910.03 milliseconds
+4.Bubble sort took 6 seconds and 919.53 milliseconds
+5.Bubble sort took 6 seconds and 911.99 milliseconds
+6.Bubble sort took 6 seconds and 969.90 milliseconds
+7.Bubble sort took 6 seconds and 950.93 milliseconds
+8.Bubble sort took 6 seconds and 904.90 milliseconds
+9.Bubble sort took 6 seconds and 937.96 milliseconds
+
+
+Testing for 50 reverse sorted elements
+0.Bubble sort took 310 microseconds
+1.Bubble sort took 196 microseconds
+2.Bubble sort took 282 microseconds
+3.Bubble sort took 244 microseconds
+4.Bubble sort took 188 microseconds
+5.Bubble sort took 189 microseconds
+6.Bubble sort took 256 microseconds
+7.Bubble sort took 292 microseconds
+8.Bubble sort took 267 microseconds
+9.Bubble sort took 192 microseconds
+
+
+Testing for 100 reverse sorted elements
+0.Bubble sort took 754 microseconds
+1.Bubble sort took 878 microseconds
+2.Bubble sort took 834 microseconds
+3.Bubble sort took 871 microseconds
+4.Bubble sort took 736 microseconds
+5.Bubble sort took 931 microseconds
+6.Bubble sort took 739 microseconds
+7.Bubble sort took 775 microseconds
+8.Bubble sort took 794 microseconds
+9.Bubble sort took 736 microseconds
+
+
+Testing for 1000 reverse sorted elements
+0.Bubble sort took 93.06 milliseconds
+1.Bubble sort took 93.96 milliseconds
+2.Bubble sort took 93.49 milliseconds
+3.Bubble sort took 93.66 milliseconds
+4.Bubble sort took 92.48 milliseconds
+5.Bubble sort took 94.90 milliseconds
+6.Bubble sort took 94.50 milliseconds
+7.Bubble sort took 92.98 milliseconds
+8.Bubble sort took 94.81 milliseconds
+9.Bubble sort took 93.75 milliseconds
+
+
+Testing for 10000 reverse sorted elements
+0.Bubble sort took 10 seconds and 12.62 milliseconds
+1.Bubble sort took 10 seconds and 36.70 milliseconds
+2.Bubble sort took 10 seconds and 69.00 milliseconds
+3.Bubble sort took 10 seconds and 328.54 milliseconds
+4.Bubble sort took 10 seconds and 82.26 milliseconds
+5.Bubble sort took 9 seconds and 912.13 milliseconds
+6.Bubble sort took 9 seconds and 942.21 milliseconds
+7.Bubble sort took 9 seconds and 987.28 milliseconds
+8.Bubble sort took 9 seconds and 977.97 milliseconds
+9.Bubble sort took 9 seconds and 976.67 milliseconds
+Testing for 50 sorted elements
+0.Selection sort took 78 microseconds
+1.Selection sort took 99 microseconds
+2.Selection sort took 79 microseconds
+3.Selection sort took 81 microseconds
+4.Selection sort took 93 microseconds
+5.Selection sort took 101 microseconds
+6.Selection sort took 117 microseconds
+7.Selection sort took 119 microseconds
+8.Selection sort took 102 microseconds
+9.Selection sort took 80 microseconds
+
+
+Testing for 100 sorted elements
+0.Selection sort took 297 microseconds
+1.Selection sort took 282 microseconds
+2.Selection sort took 327 microseconds
+3.Selection sort took 302 microseconds
+4.Selection sort took 303 microseconds
+5.Selection sort took 396 microseconds
+6.Selection sort took 383 microseconds
+7.Selection sort took 319 microseconds
+8.Selection sort took 276 microseconds
+9.Selection sort took 316 microseconds
+
+
+Testing for 1000 sorted elements
+0.Selection sort took 32.95 milliseconds
+1.Selection sort took 33.05 milliseconds
+2.Selection sort took 32.56 milliseconds
+3.Selection sort took 32.97 milliseconds
+4.Selection sort took 32.88 milliseconds
+5.Selection sort took 31.94 milliseconds
+6.Selection sort took 32.40 milliseconds
+7.Selection sort took 32.80 milliseconds
+8.Selection sort took 32.49 milliseconds
+9.Selection sort took 33.11 milliseconds
+
+
+Testing for 10000 sorted elements
+0.Selection sort took 3 seconds and 194.63 milliseconds
+1.Selection sort took 3 seconds and 247.36 milliseconds
+2.Selection sort took 3 seconds and 212.29 milliseconds
+3.Selection sort took 3 seconds and 195.96 milliseconds
+4.Selection sort took 3 seconds and 221.40 milliseconds
+5.Selection sort took 3 seconds and 204.16 milliseconds
+6.Selection sort took 3 seconds and 236.84 milliseconds
+7.Selection sort took 3 seconds and 212.85 milliseconds
+8.Selection sort took 3 seconds and 264.84 milliseconds
+9.Selection sort took 3 seconds and 225.80 milliseconds
+
+
+Testing for 50 random elements
+0.Selection sort took 95 microseconds
+1.Selection sort took 85 microseconds
+2.Selection sort took 83 microseconds
+3.Selection sort took 102 microseconds
+4.Selection sort took 83 microseconds
+5.Selection sort took 118 microseconds
+6.Selection sort took 118 microseconds
+7.Selection sort took 114 microseconds
+8.Selection sort took 82 microseconds
+9.Selection sort took 96 microseconds
+
+
+Testing for 100 random elements
+0.Selection sort took 373 microseconds
+1.Selection sort took 348 microseconds
+2.Selection sort took 300 microseconds
+3.Selection sort took 353 microseconds
+4.Selection sort took 288 microseconds
+5.Selection sort took 304 microseconds
+6.Selection sort took 291 microseconds
+7.Selection sort took 290 microseconds
+8.Selection sort took 299 microseconds
+9.Selection sort took 306 microseconds
+
+
+Testing for 1000 random elements
+0.Selection sort took 32.78 milliseconds
+1.Selection sort took 32.74 milliseconds
+2.Selection sort took 33.40 milliseconds
+3.Selection sort took 31.65 milliseconds
+4.Selection sort took 31.78 milliseconds
+5.Selection sort took 31.58 milliseconds
+6.Selection sort took 32.33 milliseconds
+7.Selection sort took 31.52 milliseconds
+8.Selection sort took 32.08 milliseconds
+9.Selection sort took 32.72 milliseconds
+
+
+Testing for 10000 random elements
+0.Selection sort took 3 seconds and 204.28 milliseconds
+1.Selection sort took 3 seconds and 202.15 milliseconds
+2.Selection sort took 3 seconds and 228.67 milliseconds
+3.Selection sort took 3 seconds and 202.47 milliseconds
+4.Selection sort took 3 seconds and 165.01 milliseconds
+5.Selection sort took 3 seconds and 168.15 milliseconds
+6.Selection sort took 3 seconds and 172.82 milliseconds
+7.Selection sort took 3 seconds and 167.09 milliseconds
+8.Selection sort took 3 seconds and 186.06 milliseconds
+9.Selection sort took 3 seconds and 178.10 milliseconds
+
+
+Testing for 50 mostly sorted elements
+0.Selection sort took 92 microseconds
+1.Selection sort took 79 microseconds
+2.Selection sort took 78 microseconds
+3.Selection sort took 95 microseconds
+4.Selection sort took 76 microseconds
+5.Selection sort took 76 microseconds
+6.Selection sort took 99 microseconds
+7.Selection sort took 115 microseconds
+8.Selection sort took 93 microseconds
+9.Selection sort took 96 microseconds
+
+
+Testing for 100 mostly sorted elements
+0.Selection sort took 332 microseconds
+1.Selection sort took 353 microseconds
+2.Selection sort took 331 microseconds
+3.Selection sort took 285 microseconds
+4.Selection sort took 340 microseconds
+5.Selection sort took 334 microseconds
+6.Selection sort took 285 microseconds
+7.Selection sort took 333 microseconds
+8.Selection sort took 283 microseconds
+9.Selection sort took 290 microseconds
+
+
+Testing for 1000 mostly sorted elements
+0.Selection sort took 33.03 milliseconds
+1.Selection sort took 32.92 milliseconds
+2.Selection sort took 32.37 milliseconds
+3.Selection sort took 33.17 milliseconds
+4.Selection sort took 32.35 milliseconds
+5.Selection sort took 33.09 milliseconds
+6.Selection sort took 33.35 milliseconds
+7.Selection sort took 31.79 milliseconds
+8.Selection sort took 31.57 milliseconds
+9.Selection sort took 32.04 milliseconds
+
+
+Testing for 10000 mostly sorted elements
+0.Selection sort took 3 seconds and 230.81 milliseconds
+1.Selection sort took 3 seconds and 235.44 milliseconds
+2.Selection sort took 3 seconds and 252.37 milliseconds
+3.Selection sort took 3 seconds and 336.63 milliseconds
+4.Selection sort took 3 seconds and 253.97 milliseconds
+5.Selection sort took 3 seconds and 199.19 milliseconds
+6.Selection sort took 3 seconds and 209.07 milliseconds
+7.Selection sort took 3 seconds and 214.55 milliseconds
+8.Selection sort took 3 seconds and 188.03 milliseconds
+9.Selection sort took 3 seconds and 191.56 milliseconds
+
+
+Testing for 50 elements of which 10% are unique
+0.Selection sort took 75 microseconds
+1.Selection sort took 125 microseconds
+2.Selection sort took 96 microseconds
+3.Selection sort took 96 microseconds
+4.Selection sort took 80 microseconds
+5.Selection sort took 87 microseconds
+6.Selection sort took 76 microseconds
+7.Selection sort took 133 microseconds
+8.Selection sort took 129 microseconds
+9.Selection sort took 75 microseconds
+
+
+Testing for 100 elements of which 10% are unique
+0.Selection sort took 267 microseconds
+1.Selection sort took 304 microseconds
+2.Selection sort took 459 microseconds
+3.Selection sort took 267 microseconds
+4.Selection sort took 267 microseconds
+5.Selection sort took 267 microseconds
+6.Selection sort took 266 microseconds
+7.Selection sort took 342 microseconds
+8.Selection sort took 344 microseconds
+9.Selection sort took 348 microseconds
+
+
+Testing for 1000 elements of which 10% are unique
+0.Selection sort took 30.49 milliseconds
+1.Selection sort took 30.80 milliseconds
+2.Selection sort took 31.64 milliseconds
+3.Selection sort took 31.58 milliseconds
+4.Selection sort took 33.16 milliseconds
+5.Selection sort took 32.27 milliseconds
+6.Selection sort took 31.81 milliseconds
+7.Selection sort took 32.54 milliseconds
+8.Selection sort took 32.01 milliseconds
+9.Selection sort took 32.41 milliseconds
+
+
+Testing for 10000 elements of which 10% are unique
+0.Selection sort took 3 seconds and 153.28 milliseconds
+1.Selection sort took 3 seconds and 170.56 milliseconds
+2.Selection sort took 3 seconds and 145.96 milliseconds
+3.Selection sort took 3 seconds and 169.89 milliseconds
+4.Selection sort took 3 seconds and 173.48 milliseconds
+5.Selection sort took 3 seconds and 193.41 milliseconds
+6.Selection sort took 3 seconds and 173.95 milliseconds
+7.Selection sort took 3 seconds and 193.88 milliseconds
+8.Selection sort took 3 seconds and 188.90 milliseconds
+9.Selection sort took 3 seconds and 200.26 milliseconds
+
+
+Testing for 50 reverse sorted elements
+0.Selection sort took 118 microseconds
+1.Selection sort took 125 microseconds
+2.Selection sort took 79 microseconds
+3.Selection sort took 95 microseconds
+4.Selection sort took 93 microseconds
+5.Selection sort took 73 microseconds
+6.Selection sort took 74 microseconds
+7.Selection sort took 74 microseconds
+8.Selection sort took 75 microseconds
+9.Selection sort took 74 microseconds
+
+
+Testing for 100 reverse sorted elements
+0.Selection sort took 268 microseconds
+1.Selection sort took 331 microseconds
+2.Selection sort took 360 microseconds
+3.Selection sort took 267 microseconds
+4.Selection sort took 306 microseconds
+5.Selection sort took 408 microseconds
+6.Selection sort took 278 microseconds
+7.Selection sort took 349 microseconds
+8.Selection sort took 338 microseconds
+9.Selection sort took 436 microseconds
+
+
+Testing for 1000 reverse sorted elements
+0.Selection sort took 31.96 milliseconds
+1.Selection sort took 33.09 milliseconds
+2.Selection sort took 33.25 milliseconds
+3.Selection sort took 32.42 milliseconds
+4.Selection sort took 31.38 milliseconds
+5.Selection sort took 31.15 milliseconds
+6.Selection sort took 31.56 milliseconds
+7.Selection sort took 32.00 milliseconds
+8.Selection sort took 31.29 milliseconds
+9.Selection sort took 31.47 milliseconds
+
+
+Testing for 10000 reverse sorted elements
+0.Selection sort took 3 seconds and 227.40 milliseconds
+1.Selection sort took 3 seconds and 260.68 milliseconds
+2.Selection sort took 3 seconds and 234.52 milliseconds
+3.Selection sort took 3 seconds and 207.65 milliseconds
+4.Selection sort took 3 seconds and 223.87 milliseconds
+5.Selection sort took 3 seconds and 190.45 milliseconds
+6.Selection sort took 3 seconds and 202.72 milliseconds
+7.Selection sort took 3 seconds and 201.47 milliseconds
+8.Selection sort took 3 seconds and 213.91 milliseconds
+9.Selection sort took 3 seconds and 203.52 milliseconds
+Testing for 50 sorted elements
+0.Insertion sort took 9 microseconds
+1.Insertion sort took 8 microseconds
+2.Insertion sort took 7 microseconds
+3.Insertion sort took 7 microseconds
+4.Insertion sort took 8 microseconds
+5.Insertion sort took 7 microseconds
+6.Insertion sort took 7 microseconds
+7.Insertion sort took 7 microseconds
+8.Insertion sort took 7 microseconds
+9.Insertion sort took 8 microseconds
+
+
+Testing for 100 sorted elements
+0.Insertion sort took 14 microseconds
+1.Insertion sort took 34 microseconds
+2.Insertion sort took 13 microseconds
+3.Insertion sort took 14 microseconds
+4.Insertion sort took 14 microseconds
+5.Insertion sort took 13 microseconds
+6.Insertion sort took 14 microseconds
+7.Insertion sort took 13 microseconds
+8.Insertion sort took 13 microseconds
+9.Insertion sort took 14 microseconds
+
+
+Testing for 1000 sorted elements
+0.Insertion sort took 0.24 milliseconds
+1.Insertion sort took 0.18 milliseconds
+2.Insertion sort took 0.14 milliseconds
+3.Insertion sort took 0.17 milliseconds
+4.Insertion sort took 0.34 milliseconds
+5.Insertion sort took 0.14 milliseconds
+6.Insertion sort took 0.14 milliseconds
+7.Insertion sort took 0.14 milliseconds
+8.Insertion sort took 0.14 milliseconds
+9.Insertion sort took 0.14 milliseconds
+
+
+Testing for 10000 sorted elements
+0.Insertion sort took 1.56 milliseconds
+1.Insertion sort took 1.52 milliseconds
+2.Insertion sort took 1.73 milliseconds
+3.Insertion sort took 1.69 milliseconds
+4.Insertion sort took 1.48 milliseconds
+5.Insertion sort took 1.66 milliseconds
+6.Insertion sort took 1.62 milliseconds
+7.Insertion sort took 1.81 milliseconds
+8.Insertion sort took 2.10 milliseconds
+9.Insertion sort took 1.63 milliseconds
+
+
+Testing for 50 random elements
+0.Insertion sort took 14 microseconds
+1.Insertion sort took 49 microseconds
+2.Insertion sort took 11 microseconds
+3.Insertion sort took 11 microseconds
+4.Insertion sort took 10 microseconds
+5.Insertion sort took 11 microseconds
+6.Insertion sort took 11 microseconds
+7.Insertion sort took 10 microseconds
+8.Insertion sort took 10 microseconds
+9.Insertion sort took 11 microseconds
+
+
+Testing for 100 random elements
+0.Insertion sort took 19 microseconds
+1.Insertion sort took 19 microseconds
+2.Insertion sort took 20 microseconds
+3.Insertion sort took 18 microseconds
+4.Insertion sort took 18 microseconds
+5.Insertion sort took 18 microseconds
+6.Insertion sort took 39 microseconds
+7.Insertion sort took 20 microseconds
+8.Insertion sort took 18 microseconds
+9.Insertion sort took 19 microseconds
+
+
+Testing for 1000 random elements
+0.Insertion sort took 0.19 milliseconds
+1.Insertion sort took 0.26 milliseconds
+2.Insertion sort took 0.17 milliseconds
+3.Insertion sort took 0.20 milliseconds
+4.Insertion sort took 0.20 milliseconds
+5.Insertion sort took 0.16 milliseconds
+6.Insertion sort took 0.16 milliseconds
+7.Insertion sort took 0.15 milliseconds
+8.Insertion sort took 0.15 milliseconds
+9.Insertion sort took 0.19 milliseconds
+
+
+Testing for 10000 random elements
+0.Insertion sort took 1.79 milliseconds
+1.Insertion sort took 1.50 milliseconds
+2.Insertion sort took 1.50 milliseconds
+3.Insertion sort took 1.72 milliseconds
+4.Insertion sort took 1.71 milliseconds
+5.Insertion sort took 1.77 milliseconds
+6.Insertion sort took 1.84 milliseconds
+7.Insertion sort took 1.63 milliseconds
+8.Insertion sort took 1.53 milliseconds
+9.Insertion sort took 1.74 milliseconds
+
+
+Testing for 50 mostly sorted elements
+0.Insertion sort took 8 microseconds
+1.Insertion sort took 7 microseconds
+2.Insertion sort took 7 microseconds
+3.Insertion sort took 7 microseconds
+4.Insertion sort took 14 microseconds
+5.Insertion sort took 7 microseconds
+6.Insertion sort took 7 microseconds
+7.Insertion sort took 7 microseconds
+8.Insertion sort took 7 microseconds
+9.Insertion sort took 7 microseconds
+
+
+Testing for 100 mostly sorted elements
+0.Insertion sort took 14 microseconds
+1.Insertion sort took 13 microseconds
+2.Insertion sort took 13 microseconds
+3.Insertion sort took 13 microseconds
+4.Insertion sort took 13 microseconds
+5.Insertion sort took 14 microseconds
+6.Insertion sort took 14 microseconds
+7.Insertion sort took 14 microseconds
+8.Insertion sort took 13 microseconds
+9.Insertion sort took 13 microseconds
+
+
+Testing for 1000 mostly sorted elements
+0.Insertion sort took 0.15 milliseconds
+1.Insertion sort took 0.14 milliseconds
+2.Insertion sort took 0.14 milliseconds
+3.Insertion sort took 0.14 milliseconds
+4.Insertion sort took 0.14 milliseconds
+5.Insertion sort took 0.14 milliseconds
+6.Insertion sort took 0.14 milliseconds
+7.Insertion sort took 0.14 milliseconds
+8.Insertion sort took 0.14 milliseconds
+9.Insertion sort took 0.14 milliseconds
+
+
+Testing for 10000 mostly sorted elements
+0.Insertion sort took 1.49 milliseconds
+1.Insertion sort took 1.69 milliseconds
+2.Insertion sort took 1.70 milliseconds
+3.Insertion sort took 2.21 milliseconds
+4.Insertion sort took 1.87 milliseconds
+5.Insertion sort took 1.59 milliseconds
+6.Insertion sort took 1.71 milliseconds
+7.Insertion sort took 1.76 milliseconds
+8.Insertion sort took 1.62 milliseconds
+9.Insertion sort took 1.57 milliseconds
+
+
+Testing for 50 elements of which 10% are unique
+0.Insertion sort took 8 microseconds
+1.Insertion sort took 8 microseconds
+2.Insertion sort took 7 microseconds
+3.Insertion sort took 7 microseconds
+4.Insertion sort took 7 microseconds
+5.Insertion sort took 7 microseconds
+6.Insertion sort took 7 microseconds
+7.Insertion sort took 28 microseconds
+8.Insertion sort took 7 microseconds
+9.Insertion sort took 7 microseconds
+
+
+Testing for 100 elements of which 10% are unique
+0.Insertion sort took 13 microseconds
+1.Insertion sort took 13 microseconds
+2.Insertion sort took 13 microseconds
+3.Insertion sort took 13 microseconds
+4.Insertion sort took 14 microseconds
+5.Insertion sort took 38 microseconds
+6.Insertion sort took 53 microseconds
+7.Insertion sort took 34 microseconds
+8.Insertion sort took 33 microseconds
+9.Insertion sort took 14 microseconds
+
+
+Testing for 1000 elements of which 10% are unique
+0.Insertion sort took 0.14 milliseconds
+1.Insertion sort took 0.14 milliseconds
+2.Insertion sort took 0.23 milliseconds
+3.Insertion sort took 0.14 milliseconds
+4.Insertion sort took 0.14 milliseconds
+5.Insertion sort took 0.14 milliseconds
+6.Insertion sort took 0.14 milliseconds
+7.Insertion sort took 0.14 milliseconds
+8.Insertion sort took 0.14 milliseconds
+9.Insertion sort took 0.14 milliseconds
+
+
+Testing for 10000 elements of which 10% are unique
+0.Insertion sort took 1.57 milliseconds
+1.Insertion sort took 2.11 milliseconds
+2.Insertion sort took 1.86 milliseconds
+3.Insertion sort took 1.47 milliseconds
+4.Insertion sort took 1.72 milliseconds
+5.Insertion sort took 1.51 milliseconds
+6.Insertion sort took 1.45 milliseconds
+7.Insertion sort took 1.44 milliseconds
+8.Insertion sort took 1.68 milliseconds
+9.Insertion sort took 1.45 milliseconds
+
+
+Testing for 50 reverse sorted elements
+0.Insertion sort took 7 microseconds
+1.Insertion sort took 7 microseconds
+2.Insertion sort took 7 microseconds
+3.Insertion sort took 7 microseconds
+4.Insertion sort took 8 microseconds
+5.Insertion sort took 7 microseconds
+6.Insertion sort took 6 microseconds
+7.Insertion sort took 7 microseconds
+8.Insertion sort took 7 microseconds
+9.Insertion sort took 7 microseconds
+
+
+Testing for 100 reverse sorted elements
+0.Insertion sort took 14 microseconds
+1.Insertion sort took 14 microseconds
+2.Insertion sort took 13 microseconds
+3.Insertion sort took 13 microseconds
+4.Insertion sort took 14 microseconds
+5.Insertion sort took 13 microseconds
+6.Insertion sort took 14 microseconds
+7.Insertion sort took 14 microseconds
+8.Insertion sort took 13 microseconds
+9.Insertion sort took 13 microseconds
+
+
+Testing for 1000 reverse sorted elements
+0.Insertion sort took 0.14 milliseconds
+1.Insertion sort took 0.17 milliseconds
+2.Insertion sort took 0.20 milliseconds
+3.Insertion sort took 0.16 milliseconds
+4.Insertion sort took 0.16 milliseconds
+5.Insertion sort took 0.16 milliseconds
+6.Insertion sort took 0.16 milliseconds
+7.Insertion sort took 0.16 milliseconds
+8.Insertion sort took 0.16 milliseconds
+9.Insertion sort took 0.17 milliseconds
+
+
+Testing for 10000 reverse sorted elements
+0.Insertion sort took 1.64 milliseconds
+1.Insertion sort took 1.86 milliseconds
+2.Insertion sort took 2.17 milliseconds
+3.Insertion sort took 1.74 milliseconds
+4.Insertion sort took 1.62 milliseconds
+5.Insertion sort took 1.59 milliseconds
+6.Insertion sort took 1.54 milliseconds
+7.Insertion sort took 1.54 milliseconds
+8.Insertion sort took 1.68 milliseconds
+9.Insertion sort took 1.88 milliseconds
+Testing for 50 sorted elements
+0.Merge sort took 89 microseconds
+1.Merge sort took 84 microseconds
+2.Merge sort took 83 microseconds
+3.Merge sort took 83 microseconds
+4.Merge sort took 139 microseconds
+5.Merge sort took 86 microseconds
+6.Merge sort took 159 microseconds
+7.Merge sort took 83 microseconds
+8.Merge sort took 83 microseconds
+9.Merge sort took 171 microseconds
+
+
+Testing for 100 sorted elements
+0.Merge sort took 232 microseconds
+1.Merge sort took 153 microseconds
+2.Merge sort took 249 microseconds
+3.Merge sort took 189 microseconds
+4.Merge sort took 150 microseconds
+5.Merge sort took 149 microseconds
+6.Merge sort took 150 microseconds
+7.Merge sort took 149 microseconds
+8.Merge sort took 210 microseconds
+9.Merge sort took 155 microseconds
+
+
+Testing for 1000 sorted elements
+0.Merge sort took 2.27 milliseconds
+1.Merge sort took 2.08 milliseconds
+2.Merge sort took 2.35 milliseconds
+3.Merge sort took 2.69 milliseconds
+4.Merge sort took 2.38 milliseconds
+5.Merge sort took 2.68 milliseconds
+6.Merge sort took 2.45 milliseconds
+7.Merge sort took 2.15 milliseconds
+8.Merge sort took 2.12 milliseconds
+9.Merge sort took 2.09 milliseconds
+
+
+Testing for 10000 sorted elements
+0.Merge sort took 30.01 milliseconds
+1.Merge sort took 29.67 milliseconds
+2.Merge sort took 29.19 milliseconds
+3.Merge sort took 29.57 milliseconds
+4.Merge sort took 30.35 milliseconds
+5.Merge sort took 29.19 milliseconds
+6.Merge sort took 29.68 milliseconds
+7.Merge sort took 28.96 milliseconds
+8.Merge sort took 29.14 milliseconds
+9.Merge sort took 29.24 milliseconds
+
+
+Testing for 50 random elements
+0.Merge sort took 74 microseconds
+1.Merge sort took 70 microseconds
+2.Merge sort took 69 microseconds
+3.Merge sort took 69 microseconds
+4.Merge sort took 69 microseconds
+5.Merge sort took 69 microseconds
+6.Merge sort took 69 microseconds
+7.Merge sort took 69 microseconds
+8.Merge sort took 99 microseconds
+9.Merge sort took 101 microseconds
+
+
+Testing for 100 random elements
+0.Merge sort took 217 microseconds
+1.Merge sort took 158 microseconds
+2.Merge sort took 156 microseconds
+3.Merge sort took 186 microseconds
+4.Merge sort took 281 microseconds
+5.Merge sort took 205 microseconds
+6.Merge sort took 157 microseconds
+7.Merge sort took 158 microseconds
+8.Merge sort took 156 microseconds
+9.Merge sort took 155 microseconds
+
+
+Testing for 1000 random elements
+0.Merge sort took 2.10 milliseconds
+1.Merge sort took 2.33 milliseconds
+2.Merge sort took 2.51 milliseconds
+3.Merge sort took 2.63 milliseconds
+4.Merge sort took 2.28 milliseconds
+5.Merge sort took 2.33 milliseconds
+6.Merge sort took 2.20 milliseconds
+7.Merge sort took 2.06 milliseconds
+8.Merge sort took 2.14 milliseconds
+9.Merge sort took 2.52 milliseconds
+
+
+Testing for 10000 random elements
+0.Merge sort took 29.82 milliseconds
+1.Merge sort took 29.26 milliseconds
+2.Merge sort took 29.71 milliseconds
+3.Merge sort took 30.03 milliseconds
+4.Merge sort took 30.01 milliseconds
+5.Merge sort took 29.95 milliseconds
+6.Merge sort took 29.28 milliseconds
+7.Merge sort took 30.53 milliseconds
+8.Merge sort took 30.01 milliseconds
+9.Merge sort took 29.31 milliseconds
+
+
+Testing for 50 mostly sorted elements
+0.Merge sort took 74 microseconds
+1.Merge sort took 93 microseconds
+2.Merge sort took 126 microseconds
+3.Merge sort took 141 microseconds
+4.Merge sort took 78 microseconds
+5.Merge sort took 106 microseconds
+6.Merge sort took 70 microseconds
+7.Merge sort took 126 microseconds
+8.Merge sort took 90 microseconds
+9.Merge sort took 69 microseconds
+
+
+Testing for 100 mostly sorted elements
+0.Merge sort took 154 microseconds
+1.Merge sort took 153 microseconds
+2.Merge sort took 252 microseconds
+3.Merge sort took 154 microseconds
+4.Merge sort took 226 microseconds
+5.Merge sort took 225 microseconds
+6.Merge sort took 152 microseconds
+7.Merge sort took 187 microseconds
+8.Merge sort took 227 microseconds
+9.Merge sort took 188 microseconds
+
+
+Testing for 1000 mostly sorted elements
+0.Merge sort took 2.30 milliseconds
+1.Merge sort took 2.19 milliseconds
+2.Merge sort took 2.10 milliseconds
+3.Merge sort took 2.14 milliseconds
+4.Merge sort took 2.19 milliseconds
+5.Merge sort took 2.30 milliseconds
+6.Merge sort took 2.67 milliseconds
+7.Merge sort took 2.25 milliseconds
+8.Merge sort took 2.22 milliseconds
+9.Merge sort took 2.21 milliseconds
+
+
+Testing for 10000 mostly sorted elements
+0.Merge sort took 29.43 milliseconds
+1.Merge sort took 29.06 milliseconds
+2.Merge sort took 29.36 milliseconds
+3.Merge sort took 30.10 milliseconds
+4.Merge sort took 30.16 milliseconds
+5.Merge sort took 29.38 milliseconds
+6.Merge sort took 29.97 milliseconds
+7.Merge sort took 28.89 milliseconds
+8.Merge sort took 30.40 milliseconds
+9.Merge sort took 29.23 milliseconds
+
+
+Testing for 50 elements of which 10% are unique
+0.Merge sort took 80 microseconds
+1.Merge sort took 76 microseconds
+2.Merge sort took 75 microseconds
+3.Merge sort took 76 microseconds
+4.Merge sort took 77 microseconds
+5.Merge sort took 77 microseconds
+6.Merge sort took 77 microseconds
+7.Merge sort took 96 microseconds
+8.Merge sort took 76 microseconds
+9.Merge sort took 75 microseconds
+
+
+Testing for 100 elements of which 10% are unique
+0.Merge sort took 168 microseconds
+1.Merge sort took 167 microseconds
+2.Merge sort took 193 microseconds
+3.Merge sort took 170 microseconds
+4.Merge sort took 170 microseconds
+5.Merge sort took 166 microseconds
+6.Merge sort took 166 microseconds
+7.Merge sort took 166 microseconds
+8.Merge sort took 165 microseconds
+9.Merge sort took 167 microseconds
+
+
+Testing for 1000 elements of which 10% are unique
+0.Merge sort took 2.24 milliseconds
+1.Merge sort took 2.20 milliseconds
+2.Merge sort took 2.42 milliseconds
+3.Merge sort took 2.54 milliseconds
+4.Merge sort took 2.37 milliseconds
+5.Merge sort took 2.20 milliseconds
+6.Merge sort took 2.38 milliseconds
+7.Merge sort took 2.15 milliseconds
+8.Merge sort took 2.10 milliseconds
+9.Merge sort took 2.40 milliseconds
+
+
+Testing for 10000 elements of which 10% are unique
+0.Merge sort took 31.00 milliseconds
+1.Merge sort took 30.44 milliseconds
+2.Merge sort took 30.97 milliseconds
+3.Merge sort took 30.52 milliseconds
+4.Merge sort took 30.22 milliseconds
+5.Merge sort took 30.36 milliseconds
+6.Merge sort took 29.75 milliseconds
+7.Merge sort took 30.69 milliseconds
+8.Merge sort took 31.45 milliseconds
+9.Merge sort took 30.43 milliseconds
+
+
+Testing for 50 reverse sorted elements
+0.Merge sort took 74 microseconds
+1.Merge sort took 71 microseconds
+2.Merge sort took 70 microseconds
+3.Merge sort took 70 microseconds
+4.Merge sort took 77 microseconds
+5.Merge sort took 87 microseconds
+6.Merge sort took 70 microseconds
+7.Merge sort took 70 microseconds
+8.Merge sort took 108 microseconds
+9.Merge sort took 69 microseconds
+
+
+Testing for 100 reverse sorted elements
+0.Merge sort took 154 microseconds
+1.Merge sort took 154 microseconds
+2.Merge sort took 153 microseconds
+3.Merge sort took 155 microseconds
+4.Merge sort took 155 microseconds
+5.Merge sort took 154 microseconds
+6.Merge sort took 154 microseconds
+7.Merge sort took 154 microseconds
+8.Merge sort took 153 microseconds
+9.Merge sort took 154 microseconds
+
+
+Testing for 1000 reverse sorted elements
+0.Merge sort took 2.13 milliseconds
+1.Merge sort took 2.13 milliseconds
+2.Merge sort took 2.27 milliseconds
+3.Merge sort took 2.75 milliseconds
+4.Merge sort took 2.25 milliseconds
+5.Merge sort took 2.31 milliseconds
+6.Merge sort took 2.18 milliseconds
+7.Merge sort took 2.18 milliseconds
+8.Merge sort took 2.07 milliseconds
+9.Merge sort took 2.16 milliseconds
+
+
+Testing for 10000 reverse sorted elements
+0.Merge sort took 29.77 milliseconds
+1.Merge sort took 30.58 milliseconds
+2.Merge sort took 29.45 milliseconds
+3.Merge sort took 29.67 milliseconds
+4.Merge sort took 29.76 milliseconds
+5.Merge sort took 29.52 milliseconds
+6.Merge sort took 29.54 milliseconds
+7.Merge sort took 29.41 milliseconds
+8.Merge sort took 28.79 milliseconds
+9.Merge sort took 29.66 milliseconds
+Testing for 50 sorted elements
+0.Quick sort took 155 microseconds
+1.Quick sort took 132 microseconds
+2.Quick sort took 130 microseconds
+3.Quick sort took 131 microseconds
+4.Quick sort took 162 microseconds
+5.Quick sort took 131 microseconds
+6.Quick sort took 130 microseconds
+7.Quick sort took 131 microseconds
+8.Quick sort took 130 microseconds
+9.Quick sort took 129 microseconds
+
+
+Testing for 100 sorted elements
+0.Quick sort took 632 microseconds
+1.Quick sort took 661 microseconds
+2.Quick sort took 533 microseconds
+3.Quick sort took 606 microseconds
+4.Quick sort took 701 microseconds
+5.Quick sort took 487 microseconds
+6.Quick sort took 655 microseconds
+7.Quick sort took 611 microseconds
+8.Quick sort took 552 microseconds
+9.Quick sort took 483 microseconds
+
+
+Testing for 1000 sorted elements
+0.Quick sort took NaN
+1.Quick sort took NaN
+2.Quick sort took NaN
+3.Quick sort took NaN
+4.Quick sort took NaN
+5.Quick sort took NaN
+6.Quick sort took NaN
+7.Quick sort took NaN
+8.Quick sort took NaN
+9.Quick sort took NaN
+
+
+Testing for 10000 sorted elements
+0.Quick sort took NaN
+1.Quick sort took NaN
+2.Quick sort took NaN
+3.Quick sort took NaN
+4.Quick sort took NaN
+5.Quick sort took NaN
+6.Quick sort took NaN
+7.Quick sort took NaN
+8.Quick sort took NaN
+9.Quick sort took NaN
+
+
+Testing for 50 random elements
+0.Quick sort took 159 microseconds
+1.Quick sort took 137 microseconds
+2.Quick sort took 154 microseconds
+3.Quick sort took 147 microseconds
+4.Quick sort took 132 microseconds
+5.Quick sort took 132 microseconds
+6.Quick sort took 134 microseconds
+7.Quick sort took 128 microseconds
+8.Quick sort took 132 microseconds
+9.Quick sort took 128 microseconds
+
+
+Testing for 100 random elements
+0.Quick sort took 566 microseconds
+1.Quick sort took 482 microseconds
+2.Quick sort took 467 microseconds
+3.Quick sort took 480 microseconds
+4.Quick sort took 473 microseconds
+5.Quick sort took 478 microseconds
+6.Quick sort took 566 microseconds
+7.Quick sort took 475 microseconds
+8.Quick sort took 550 microseconds
+9.Quick sort took 468 microseconds
+
+
+Testing for 1000 random elements
+0.Quick sort took 49.85 milliseconds
+1.Quick sort took 49.66 milliseconds
+2.Quick sort took 50.27 milliseconds
+3.Quick sort took 47.46 milliseconds
+4.Quick sort took 50.94 milliseconds
+5.Quick sort took 47.20 milliseconds
+6.Quick sort took 50.94 milliseconds
+7.Quick sort took 48.11 milliseconds
+8.Quick sort took 51.09 milliseconds
+9.Quick sort took 49.35 milliseconds
+
+
+Testing for 10000 random elements
+0.Quick sort took NaN
+1.Quick sort took NaN
+2.Quick sort took NaN
+3.Quick sort took NaN
+4.Quick sort took NaN
+5.Quick sort took NaN
+6.Quick sort took NaN
+7.Quick sort took NaN
+8.Quick sort took NaN
+9.Quick sort took NaN
+
+
+Testing for 50 mostly sorted elements
+0.Quick sort took 148 microseconds
+1.Quick sort took 131 microseconds
+2.Quick sort took 129 microseconds
+3.Quick sort took 129 microseconds
+4.Quick sort took 129 microseconds
+5.Quick sort took 130 microseconds
+6.Quick sort took 129 microseconds
+7.Quick sort took 129 microseconds
+8.Quick sort took 128 microseconds
+9.Quick sort took 128 microseconds
+
+
+Testing for 100 mostly sorted elements
+0.Quick sort took 484 microseconds
+1.Quick sort took 627 microseconds
+2.Quick sort took 473 microseconds
+3.Quick sort took 596 microseconds
+4.Quick sort took 566 microseconds
+5.Quick sort took 472 microseconds
+6.Quick sort took 683 microseconds
+7.Quick sort took 471 microseconds
+8.Quick sort took 470 microseconds
+9.Quick sort took 470 microseconds
+
+
+Testing for 1000 mostly sorted elements
+0.Quick sort took NaN
+1.Quick sort took NaN
+2.Quick sort took NaN
+3.Quick sort took NaN
+4.Quick sort took NaN
+5.Quick sort took NaN
+6.Quick sort took NaN
+7.Quick sort took NaN
+8.Quick sort took NaN
+9.Quick sort took NaN
+
+
+Testing for 10000 mostly sorted elements
+0.Quick sort took NaN
+1.Quick sort took NaN
+2.Quick sort took NaN
+3.Quick sort took NaN
+4.Quick sort took NaN
+5.Quick sort took NaN
+6.Quick sort took NaN
+7.Quick sort took NaN
+8.Quick sort took NaN
+9.Quick sort took NaN
+
+
+Testing for 50 elements of which 10% are unique
+0.Quick sort took 42 microseconds
+1.Quick sort took 31 microseconds
+2.Quick sort took 29 microseconds
+3.Quick sort took 28 microseconds
+4.Quick sort took 29 microseconds
+5.Quick sort took 28 microseconds
+6.Quick sort took 29 microseconds
+7.Quick sort took 28 microseconds
+8.Quick sort took 28 microseconds
+9.Quick sort took 29 microseconds
+
+
+Testing for 100 elements of which 10% are unique
+0.Quick sort took 55 microseconds
+1.Quick sort took 52 microseconds
+2.Quick sort took 53 microseconds
+3.Quick sort took 52 microseconds
+4.Quick sort took 53 microseconds
+5.Quick sort took 52 microseconds
+6.Quick sort took 53 microseconds
+7.Quick sort took 53 microseconds
+8.Quick sort took 53 microseconds
+9.Quick sort took 53 microseconds
+
+
+Testing for 1000 elements of which 10% are unique
+0.Quick sort took 0.49 milliseconds
+1.Quick sort took 0.48 milliseconds
+2.Quick sort took 0.48 milliseconds
+3.Quick sort took 0.54 milliseconds
+4.Quick sort took 0.48 milliseconds
+5.Quick sort took 0.48 milliseconds
+6.Quick sort took 0.62 milliseconds
+7.Quick sort took 0.48 milliseconds
+8.Quick sort took 0.48 milliseconds
+9.Quick sort took 0.48 milliseconds
+
+
+Testing for 10000 elements of which 10% are unique
+0.Quick sort took 5.69 milliseconds
+1.Quick sort took 5.21 milliseconds
+2.Quick sort took 4.88 milliseconds
+3.Quick sort took 5.16 milliseconds
+4.Quick sort took 5.30 milliseconds
+5.Quick sort took 5.00 milliseconds
+6.Quick sort took 5.05 milliseconds
+7.Quick sort took 5.67 milliseconds
+8.Quick sort took 4.88 milliseconds
+9.Quick sort took 4.81 milliseconds
+
+
+Testing for 50 reverse sorted elements
+0.Quick sort took 167 microseconds
+1.Quick sort took 130 microseconds
+2.Quick sort took 179 microseconds
+3.Quick sort took 176 microseconds
+4.Quick sort took 159 microseconds
+5.Quick sort took 135 microseconds
+6.Quick sort took 132 microseconds
+7.Quick sort took 158 microseconds
+8.Quick sort took 152 microseconds
+9.Quick sort took 143 microseconds
+
+
+Testing for 100 reverse sorted elements
+0.Quick sort took 721 microseconds
+1.Quick sort took 492 microseconds
+2.Quick sort took 609 microseconds
+3.Quick sort took 687 microseconds
+4.Quick sort took 582 microseconds
+5.Quick sort took 558 microseconds
+6.Quick sort took 525 microseconds
+7.Quick sort took 475 microseconds
+8.Quick sort took 546 microseconds
+9.Quick sort took 471 microseconds
+
+
+Testing for 1000 reverse sorted elements
+0.Quick sort took NaN
+1.Quick sort took NaN
+2.Quick sort took NaN
+3.Quick sort took NaN
+4.Quick sort took NaN
+5.Quick sort took NaN
+6.Quick sort took NaN
+7.Quick sort took NaN
+8.Quick sort took NaN
+9.Quick sort took NaN
+
+
+Testing for 10000 reverse sorted elements
+0.Quick sort took NaN
+1.Quick sort took NaN
+2.Quick sort took NaN
+3.Quick sort took NaN
+4.Quick sort took NaN
+5.Quick sort took NaN
+6.Quick sort took NaN
+7.Quick sort took NaN
+8.Quick sort took NaN
+9.Quick sort took NaN
+Testing for 50 sorted elements
+0.Heap sort took 111 microseconds
+1.Heap sort took 99 microseconds
+2.Heap sort took 97 microseconds
+3.Heap sort took 99 microseconds
+4.Heap sort took 97 microseconds
+5.Heap sort took 96 microseconds
+6.Heap sort took 96 microseconds
+7.Heap sort took 96 microseconds
+8.Heap sort took 97 microseconds
+9.Heap sort took 96 microseconds
+
+
+Testing for 100 sorted elements
+0.Heap sort took 224 microseconds
+1.Heap sort took 224 microseconds
+2.Heap sort took 224 microseconds
+3.Heap sort took 225 microseconds
+4.Heap sort took 282 microseconds
+5.Heap sort took 244 microseconds
+6.Heap sort took 322 microseconds
+7.Heap sort took 224 microseconds
+8.Heap sort took 225 microseconds
+9.Heap sort took 224 microseconds
+
+
+Testing for 1000 sorted elements
+0.Heap sort took 3.70 milliseconds
+1.Heap sort took 4.47 milliseconds
+2.Heap sort took 4.04 milliseconds
+3.Heap sort took 3.75 milliseconds
+4.Heap sort took 3.56 milliseconds
+5.Heap sort took 4.85 milliseconds
+6.Heap sort took 3.99 milliseconds
+7.Heap sort took 3.73 milliseconds
+8.Heap sort took 3.68 milliseconds
+9.Heap sort took 4.16 milliseconds
+
+
+Testing for 10000 sorted elements
+0.Heap sort took 55.69 milliseconds
+1.Heap sort took 55.45 milliseconds
+2.Heap sort took 57.04 milliseconds
+3.Heap sort took 55.84 milliseconds
+4.Heap sort took 56.04 milliseconds
+5.Heap sort took 56.24 milliseconds
+6.Heap sort took 55.31 milliseconds
+7.Heap sort took 55.98 milliseconds
+8.Heap sort took 56.45 milliseconds
+9.Heap sort took 55.52 milliseconds
+
+
+Testing for 50 random elements
+0.Heap sort took 101 microseconds
+1.Heap sort took 99 microseconds
+2.Heap sort took 99 microseconds
+3.Heap sort took 99 microseconds
+4.Heap sort took 98 microseconds
+5.Heap sort took 99 microseconds
+6.Heap sort took 118 microseconds
+7.Heap sort took 214 microseconds
+8.Heap sort took 98 microseconds
+9.Heap sort took 98 microseconds
+
+
+Testing for 100 random elements
+0.Heap sort took 229 microseconds
+1.Heap sort took 228 microseconds
+2.Heap sort took 269 microseconds
+3.Heap sort took 322 microseconds
+4.Heap sort took 262 microseconds
+5.Heap sort took 269 microseconds
+6.Heap sort took 292 microseconds
+7.Heap sort took 266 microseconds
+8.Heap sort took 324 microseconds
+9.Heap sort took 277 microseconds
+
+
+Testing for 1000 random elements
+0.Heap sort took 4.42 milliseconds
+1.Heap sort took 3.85 milliseconds
+2.Heap sort took 3.70 milliseconds
+3.Heap sort took 3.89 milliseconds
+4.Heap sort took 4.44 milliseconds
+5.Heap sort took 4.15 milliseconds
+6.Heap sort took 3.65 milliseconds
+7.Heap sort took 4.03 milliseconds
+8.Heap sort took 4.77 milliseconds
+9.Heap sort took 3.99 milliseconds
+
+
+Testing for 10000 random elements
+0.Heap sort took 54.79 milliseconds
+1.Heap sort took 55.22 milliseconds
+2.Heap sort took 55.17 milliseconds
+3.Heap sort took 55.35 milliseconds
+4.Heap sort took 56.49 milliseconds
+5.Heap sort took 55.02 milliseconds
+6.Heap sort took 54.13 milliseconds
+7.Heap sort took 55.32 milliseconds
+8.Heap sort took 55.27 milliseconds
+9.Heap sort took 55.01 milliseconds
+
+
+Testing for 50 mostly sorted elements
+0.Heap sort took 176 microseconds
+1.Heap sort took 98 microseconds
+2.Heap sort took 97 microseconds
+3.Heap sort took 97 microseconds
+4.Heap sort took 98 microseconds
+5.Heap sort took 100 microseconds
+6.Heap sort took 100 microseconds
+7.Heap sort took 98 microseconds
+8.Heap sort took 99 microseconds
+9.Heap sort took 96 microseconds
+
+
+Testing for 100 mostly sorted elements
+0.Heap sort took 227 microseconds
+1.Heap sort took 228 microseconds
+2.Heap sort took 230 microseconds
+3.Heap sort took 227 microseconds
+4.Heap sort took 227 microseconds
+5.Heap sort took 225 microseconds
+6.Heap sort took 225 microseconds
+7.Heap sort took 224 microseconds
+8.Heap sort took 299 microseconds
+9.Heap sort took 250 microseconds
+
+
+Testing for 1000 mostly sorted elements
+0.Heap sort took 4.37 milliseconds
+1.Heap sort took 3.85 milliseconds
+2.Heap sort took 3.67 milliseconds
+3.Heap sort took 3.62 milliseconds
+4.Heap sort took 4.67 milliseconds
+5.Heap sort took 3.97 milliseconds
+6.Heap sort took 3.76 milliseconds
+7.Heap sort took 3.60 milliseconds
+8.Heap sort took 4.28 milliseconds
+9.Heap sort took 4.50 milliseconds
+
+
+Testing for 10000 mostly sorted elements
+0.Heap sort took 54.97 milliseconds
+1.Heap sort took 55.74 milliseconds
+2.Heap sort took 56.70 milliseconds
+3.Heap sort took 56.02 milliseconds
+4.Heap sort took 56.22 milliseconds
+5.Heap sort took 55.48 milliseconds
+6.Heap sort took 54.35 milliseconds
+7.Heap sort took 58.28 milliseconds
+8.Heap sort took 54.66 milliseconds
+9.Heap sort took 55.62 milliseconds
+
+
+Testing for 50 elements of which 10% are unique
+0.Heap sort took 99 microseconds
+1.Heap sort took 92 microseconds
+2.Heap sort took 91 microseconds
+3.Heap sort took 91 microseconds
+4.Heap sort took 91 microseconds
+5.Heap sort took 90 microseconds
+6.Heap sort took 90 microseconds
+7.Heap sort took 128 microseconds
+8.Heap sort took 118 microseconds
+9.Heap sort took 129 microseconds
+
+
+Testing for 100 elements of which 10% are unique
+0.Heap sort took 255 microseconds
+1.Heap sort took 258 microseconds
+2.Heap sort took 215 microseconds
+3.Heap sort took 273 microseconds
+4.Heap sort took 273 microseconds
+5.Heap sort took 290 microseconds
+6.Heap sort took 305 microseconds
+7.Heap sort took 268 microseconds
+8.Heap sort took 284 microseconds
+9.Heap sort took 249 microseconds
+
+
+Testing for 1000 elements of which 10% are unique
+0.Heap sort took 3.73 milliseconds
+1.Heap sort took 3.11 milliseconds
+2.Heap sort took 2.96 milliseconds
+3.Heap sort took 3.25 milliseconds
+4.Heap sort took 3.69 milliseconds
+5.Heap sort took 3.16 milliseconds
+6.Heap sort took 3.18 milliseconds
+7.Heap sort took 3.00 milliseconds
+8.Heap sort took 3.38 milliseconds
+9.Heap sort took 3.77 milliseconds
+
+
+Testing for 10000 elements of which 10% are unique
+0.Heap sort took 42.93 milliseconds
+1.Heap sort took 43.84 milliseconds
+2.Heap sort took 44.56 milliseconds
+3.Heap sort took 43.39 milliseconds
+4.Heap sort took 43.88 milliseconds
+5.Heap sort took 43.27 milliseconds
+6.Heap sort took 43.86 milliseconds
+7.Heap sort took 43.54 milliseconds
+8.Heap sort took 43.51 milliseconds
+9.Heap sort took 44.79 milliseconds
+
+
+Testing for 50 reverse sorted elements
+0.Heap sort took 99 microseconds
+1.Heap sort took 97 microseconds
+2.Heap sort took 97 microseconds
+3.Heap sort took 97 microseconds
+4.Heap sort took 97 microseconds
+5.Heap sort took 97 microseconds
+6.Heap sort took 96 microseconds
+7.Heap sort took 97 microseconds
+8.Heap sort took 97 microseconds
+9.Heap sort took 96 microseconds
+
+
+Testing for 100 reverse sorted elements
+0.Heap sort took 225 microseconds
+1.Heap sort took 225 microseconds
+2.Heap sort took 227 microseconds
+3.Heap sort took 226 microseconds
+4.Heap sort took 226 microseconds
+5.Heap sort took 226 microseconds
+6.Heap sort took 334 microseconds
+7.Heap sort took 227 microseconds
+8.Heap sort took 227 microseconds
+9.Heap sort took 283 microseconds
+
+
+Testing for 1000 reverse sorted elements
+0.Heap sort took 3.90 milliseconds
+1.Heap sort took 4.26 milliseconds
+2.Heap sort took 3.92 milliseconds
+3.Heap sort took 4.04 milliseconds
+4.Heap sort took 4.09 milliseconds
+5.Heap sort took 4.32 milliseconds
+6.Heap sort took 3.94 milliseconds
+7.Heap sort took 3.81 milliseconds
+8.Heap sort took 3.92 milliseconds
+9.Heap sort took 4.48 milliseconds
+
+
+Testing for 10000 reverse sorted elements
+0.Heap sort took 56.68 milliseconds
+1.Heap sort took 56.78 milliseconds
+2.Heap sort took 56.09 milliseconds
+3.Heap sort took 55.92 milliseconds
+4.Heap sort took 57.05 milliseconds
+5.Heap sort took 55.05 milliseconds
+6.Heap sort took 55.20 milliseconds
+7.Heap sort took 56.74 milliseconds
+8.Heap sort took 55.87 milliseconds
+9.Heap sort took 55.71 milliseconds
+Testing for 50 sorted elements
+0.Counting sort took 25 microseconds
+1.Counting sort took 50 microseconds
+2.Counting sort took 28 microseconds
+3.Counting sort took 82 microseconds
+4.Counting sort took 121 microseconds
+5.Counting sort took 41 microseconds
+6.Counting sort took 28 microseconds
+7.Counting sort took 28 microseconds
+8.Counting sort took 45 microseconds
+9.Counting sort took 103 microseconds
+
+
+Testing for 100 sorted elements
+0.Counting sort took 37 microseconds
+1.Counting sort took 47 microseconds
+2.Counting sort took 48 microseconds
+3.Counting sort took 88 microseconds
+4.Counting sort took 153 microseconds
+5.Counting sort took 38 microseconds
+6.Counting sort took 49 microseconds
+7.Counting sort took 47 microseconds
+8.Counting sort took 132 microseconds
+9.Counting sort took 183 microseconds
+
+
+Testing for 1000 sorted elements
+0.Counting sort took 0.49 milliseconds
+1.Counting sort took 0.67 milliseconds
+2.Counting sort took 0.56 milliseconds
+3.Counting sort took 1.14 milliseconds
+4.Counting sort took 1.58 milliseconds
+5.Counting sort took 0.49 milliseconds
+6.Counting sort took 0.51 milliseconds
+7.Counting sort took 0.51 milliseconds
+8.Counting sort took 0.95 milliseconds
+9.Counting sort took 1.66 milliseconds
+
+
+Testing for 10000 sorted elements
+0.Counting sort took 4.01 milliseconds
+1.Counting sort took 6.28 milliseconds
+2.Counting sort took 6.28 milliseconds
+3.Counting sort took 11.35 milliseconds
+4.Counting sort took 19.07 milliseconds
+5.Counting sort took 4.76 milliseconds
+6.Counting sort took 6.37 milliseconds
+7.Counting sort took 5.91 milliseconds
+8.Counting sort took 10.71 milliseconds
+9.Counting sort took 18.50 milliseconds
+
+
+Testing for 50 random elements
+0.Counting sort took 942 microseconds
+1.Counting sort took 998 microseconds
+2.Counting sort took 1 millisecond and 53 microseconds
+3.Counting sort took 973 microseconds
+4.Counting sort took 1 millisecond and 116 microseconds
+5.Counting sort took 951 microseconds
+6.Counting sort took 1 millisecond and 10 microseconds
+7.Counting sort took 977 microseconds
+8.Counting sort took 927 microseconds
+9.Counting sort took 1 millisecond and 242 microseconds
+
+
+Testing for 100 random elements
+0.Counting sort took 1 millisecond and 161 microseconds
+1.Counting sort took 1 millisecond and 184 microseconds
+2.Counting sort took 1 millisecond and 164 microseconds
+3.Counting sort took 1 millisecond and 404 microseconds
+4.Counting sort took 1 millisecond and 15 microseconds
+5.Counting sort took 1 millisecond and 70 microseconds
+6.Counting sort took 1 millisecond and 36 microseconds
+7.Counting sort took 1 millisecond and 122 microseconds
+8.Counting sort took 1 millisecond and 197 microseconds
+9.Counting sort took 1 millisecond and 17 microseconds
+
+
+Testing for 1000 random elements
+0.Counting sort took 1.36 milliseconds
+1.Counting sort took 1.33 milliseconds
+2.Counting sort took 1.59 milliseconds
+3.Counting sort took 1.78 milliseconds
+4.Counting sort took 1.81 milliseconds
+5.Counting sort took 1.75 milliseconds
+6.Counting sort took 1.41 milliseconds
+7.Counting sort took 1.39 milliseconds
+8.Counting sort took 1.33 milliseconds
+9.Counting sort took 1.56 milliseconds
+
+
+Testing for 10000 random elements
+0.Counting sort took 3.68 milliseconds
+1.Counting sort took 4.74 milliseconds
+2.Counting sort took 4.20 milliseconds
+3.Counting sort took 4.13 milliseconds
+4.Counting sort took 3.86 milliseconds
+5.Counting sort took 4.80 milliseconds
+6.Counting sort took 4.15 milliseconds
+7.Counting sort took 3.94 milliseconds
+8.Counting sort took 3.90 milliseconds
+9.Counting sort took 4.85 milliseconds
+
+
+Testing for 50 mostly sorted elements
+0.Counting sort took 23 microseconds
+1.Counting sort took 25 microseconds
+2.Counting sort took 25 microseconds
+3.Counting sort took 40 microseconds
+4.Counting sort took 73 microseconds
+5.Counting sort took 20 microseconds
+6.Counting sort took 24 microseconds
+7.Counting sort took 25 microseconds
+8.Counting sort took 42 microseconds
+9.Counting sort took 73 microseconds
+
+
+Testing for 100 mostly sorted elements
+0.Counting sort took 35 microseconds
+1.Counting sort took 45 microseconds
+2.Counting sort took 47 microseconds
+3.Counting sort took 85 microseconds
+4.Counting sort took 147 microseconds
+5.Counting sort took 38 microseconds
+6.Counting sort took 48 microseconds
+7.Counting sort took 47 microseconds
+8.Counting sort took 86 microseconds
+9.Counting sort took 146 microseconds
+
+
+Testing for 1000 mostly sorted elements
+0.Counting sort took 0.44 milliseconds
+1.Counting sort took 0.55 milliseconds
+2.Counting sort took 0.51 milliseconds
+3.Counting sort took 1.10 milliseconds
+4.Counting sort took 1.54 milliseconds
+5.Counting sort took 0.50 milliseconds
+6.Counting sort took 0.51 milliseconds
+7.Counting sort took 0.51 milliseconds
+8.Counting sort took 0.90 milliseconds
+9.Counting sort took 1.66 milliseconds
+
+
+Testing for 10000 mostly sorted elements
+0.Counting sort took 4.30 milliseconds
+1.Counting sort took 6.14 milliseconds
+2.Counting sort took 5.53 milliseconds
+3.Counting sort took 11.00 milliseconds
+4.Counting sort took 18.11 milliseconds
+5.Counting sort took 4.69 milliseconds
+6.Counting sort took 6.12 milliseconds
+7.Counting sort took 5.91 milliseconds
+8.Counting sort took 10.76 milliseconds
+9.Counting sort took 18.37 milliseconds
+
+
+Testing for 50 elements of which 10% are unique
+0.Counting sort took 21 microseconds
+1.Counting sort took 15 microseconds
+2.Counting sort took 14 microseconds
+3.Counting sort took 13 microseconds
+4.Counting sort took 13 microseconds
+5.Counting sort took 13 microseconds
+6.Counting sort took 13 microseconds
+7.Counting sort took 13 microseconds
+8.Counting sort took 14 microseconds
+9.Counting sort took 13 microseconds
+
+
+Testing for 100 elements of which 10% are unique
+0.Counting sort took 24 microseconds
+1.Counting sort took 24 microseconds
+2.Counting sort took 24 microseconds
+3.Counting sort took 23 microseconds
+4.Counting sort took 23 microseconds
+5.Counting sort took 23 microseconds
+6.Counting sort took 23 microseconds
+7.Counting sort took 24 microseconds
+8.Counting sort took 23 microseconds
+9.Counting sort took 24 microseconds
+
+
+Testing for 1000 elements of which 10% are unique
+0.Counting sort took 0.21 milliseconds
+1.Counting sort took 0.21 milliseconds
+2.Counting sort took 0.21 milliseconds
+3.Counting sort took 0.25 milliseconds
+4.Counting sort took 0.21 milliseconds
+5.Counting sort took 0.24 milliseconds
+6.Counting sort took 0.22 milliseconds
+7.Counting sort took 0.40 milliseconds
+8.Counting sort took 0.30 milliseconds
+9.Counting sort took 0.22 milliseconds
+
+
+Testing for 10000 elements of which 10% are unique
+0.Counting sort took 2.36 milliseconds
+1.Counting sort took 2.50 milliseconds
+2.Counting sort took 2.70 milliseconds
+3.Counting sort took 3.02 milliseconds
+4.Counting sort took 2.55 milliseconds
+5.Counting sort took 2.60 milliseconds
+6.Counting sort took 2.44 milliseconds
+7.Counting sort took 2.50 milliseconds
+8.Counting sort took 2.54 milliseconds
+9.Counting sort took 3.00 milliseconds
+
+
+Testing for 50 reverse sorted elements
+0.Counting sort took 21 microseconds
+1.Counting sort took 27 microseconds
+2.Counting sort took 25 microseconds
+3.Counting sort took 42 microseconds
+4.Counting sort took 77 microseconds
+5.Counting sort took 21 microseconds
+6.Counting sort took 46 microseconds
+7.Counting sort took 27 microseconds
+8.Counting sort took 44 microseconds
+9.Counting sort took 78 microseconds
+
+
+Testing for 100 reverse sorted elements
+0.Counting sort took 37 microseconds
+1.Counting sort took 46 microseconds
+2.Counting sort took 69 microseconds
+3.Counting sort took 105 microseconds
+4.Counting sort took 150 microseconds
+5.Counting sort took 38 microseconds
+6.Counting sort took 58 microseconds
+7.Counting sort took 67 microseconds
+8.Counting sort took 102 microseconds
+9.Counting sort took 148 microseconds
+
+
+Testing for 1000 reverse sorted elements
+0.Counting sort took 0.38 milliseconds
+1.Counting sort took 0.68 milliseconds
+2.Counting sort took 0.77 milliseconds
+3.Counting sort took 1.12 milliseconds
+4.Counting sort took 1.67 milliseconds
+5.Counting sort took 0.41 milliseconds
+6.Counting sort took 0.50 milliseconds
+7.Counting sort took 0.51 milliseconds
+8.Counting sort took 0.90 milliseconds
+9.Counting sort took 1.74 milliseconds
+
+
+Testing for 10000 reverse sorted elements
+0.Counting sort took 4.80 milliseconds
+1.Counting sort took 6.09 milliseconds
+2.Counting sort took 5.57 milliseconds
+3.Counting sort took 11.24 milliseconds
+4.Counting sort took 17.95 milliseconds
+5.Counting sort took 4.75 milliseconds
+6.Counting sort took 6.30 milliseconds
+7.Counting sort took 5.88 milliseconds
+8.Counting sort took 10.78 milliseconds
+9.Counting sort took 18.26 milliseconds
+Testing for 50 sorted elements
+0.Radix sort took 41 microseconds
+1.Radix sort took 30 microseconds
+2.Radix sort took 28 microseconds
+3.Radix sort took 40 microseconds
+4.Radix sort took 51 microseconds
+5.Radix sort took 28 microseconds
+6.Radix sort took 27 microseconds
+7.Radix sort took 28 microseconds
+8.Radix sort took 56 microseconds
+9.Radix sort took 51 microseconds
+
+
+Testing for 100 sorted elements
+0.Radix sort took 114 microseconds
+1.Radix sort took 105 microseconds
+2.Radix sort took 121 microseconds
+3.Radix sort took 77 microseconds
+4.Radix sort took 152 microseconds
+5.Radix sort took 95 microseconds
+6.Radix sort took 90 microseconds
+7.Radix sort took 145 microseconds
+8.Radix sort took 72 microseconds
+9.Radix sort took 93 microseconds
+
+
+Testing for 1000 sorted elements
+0.Radix sort took 0.79 milliseconds
+1.Radix sort took 0.79 milliseconds
+2.Radix sort took 0.79 milliseconds
+3.Radix sort took 0.87 milliseconds
+4.Radix sort took 0.98 milliseconds
+5.Radix sort took 0.93 milliseconds
+6.Radix sort took 0.96 milliseconds
+7.Radix sort took 0.86 milliseconds
+8.Radix sort took 1.17 milliseconds
+9.Radix sort took 1.45 milliseconds
+
+
+Testing for 10000 sorted elements
+0.Radix sort took 10.67 milliseconds
+1.Radix sort took 11.36 milliseconds
+2.Radix sort took 11.85 milliseconds
+3.Radix sort took 10.68 milliseconds
+4.Radix sort took 13.24 milliseconds
+5.Radix sort took 10.88 milliseconds
+6.Radix sort took 10.29 milliseconds
+7.Radix sort took 12.04 milliseconds
+8.Radix sort took 11.30 milliseconds
+9.Radix sort took 12.78 milliseconds
+
+
+Testing for 50 random elements
+0.Radix sort took 97 microseconds
+1.Radix sort took 59 microseconds
+2.Radix sort took 75 microseconds
+3.Radix sort took 72 microseconds
+4.Radix sort took 54 microseconds
+5.Radix sort took 106 microseconds
+6.Radix sort took 54 microseconds
+7.Radix sort took 55 microseconds
+8.Radix sort took 54 microseconds
+9.Radix sort took 74 microseconds
+
+
+Testing for 100 random elements
+0.Radix sort took 103 microseconds
+1.Radix sort took 102 microseconds
+2.Radix sort took 129 microseconds
+3.Radix sort took 98 microseconds
+4.Radix sort took 113 microseconds
+5.Radix sort took 177 microseconds
+6.Radix sort took 114 microseconds
+7.Radix sort took 97 microseconds
+8.Radix sort took 96 microseconds
+9.Radix sort took 97 microseconds
+
+
+Testing for 1000 random elements
+0.Radix sort took 0.92 milliseconds
+1.Radix sort took 1.05 milliseconds
+2.Radix sort took 0.88 milliseconds
+3.Radix sort took 0.90 milliseconds
+4.Radix sort took 1.03 milliseconds
+5.Radix sort took 0.83 milliseconds
+6.Radix sort took 0.83 milliseconds
+7.Radix sort took 0.89 milliseconds
+8.Radix sort took 0.83 milliseconds
+9.Radix sort took 0.83 milliseconds
+
+
+Testing for 10000 random elements
+0.Radix sort took 9.39 milliseconds
+1.Radix sort took 8.43 milliseconds
+2.Radix sort took 9.43 milliseconds
+3.Radix sort took 8.30 milliseconds
+4.Radix sort took 9.20 milliseconds
+5.Radix sort took 8.59 milliseconds
+6.Radix sort took 9.23 milliseconds
+7.Radix sort took 8.93 milliseconds
+8.Radix sort took 8.61 milliseconds
+9.Radix sort took 9.20 milliseconds
+
+
+Testing for 50 mostly sorted elements
+0.Radix sort took 33 microseconds
+1.Radix sort took 28 microseconds
+2.Radix sort took 27 microseconds
+3.Radix sort took 39 microseconds
+4.Radix sort took 50 microseconds
+5.Radix sort took 28 microseconds
+6.Radix sort took 28 microseconds
+7.Radix sort took 29 microseconds
+8.Radix sort took 39 microseconds
+9.Radix sort took 51 microseconds
+
+
+Testing for 100 mostly sorted elements
+0.Radix sort took 71 microseconds
+1.Radix sort took 69 microseconds
+2.Radix sort took 73 microseconds
+3.Radix sort took 91 microseconds
+4.Radix sort took 112 microseconds
+5.Radix sort took 146 microseconds
+6.Radix sort took 140 microseconds
+7.Radix sort took 69 microseconds
+8.Radix sort took 71 microseconds
+9.Radix sort took 92 microseconds
+
+
+Testing for 1000 mostly sorted elements
+0.Radix sort took 0.80 milliseconds
+1.Radix sort took 0.80 milliseconds
+2.Radix sort took 0.88 milliseconds
+3.Radix sort took 0.80 milliseconds
+4.Radix sort took 0.98 milliseconds
+5.Radix sort took 0.93 milliseconds
+6.Radix sort took 0.86 milliseconds
+7.Radix sort took 0.80 milliseconds
+8.Radix sort took 0.81 milliseconds
+9.Radix sort took 0.99 milliseconds
+
+
+Testing for 10000 mostly sorted elements
+0.Radix sort took 11.58 milliseconds
+1.Radix sort took 11.71 milliseconds
+2.Radix sort took 10.14 milliseconds
+3.Radix sort took 11.89 milliseconds
+4.Radix sort took 13.80 milliseconds
+5.Radix sort took 10.90 milliseconds
+6.Radix sort took 10.59 milliseconds
+7.Radix sort took 11.60 milliseconds
+8.Radix sort took 10.56 milliseconds
+9.Radix sort took 12.61 milliseconds
+
+
+Testing for 50 elements of which 10% are unique
+0.Radix sort took 20 microseconds
+1.Radix sort took 28 microseconds
+2.Radix sort took 27 microseconds
+3.Radix sort took 26 microseconds
+4.Radix sort took 26 microseconds
+5.Radix sort took 25 microseconds
+6.Radix sort took 26 microseconds
+7.Radix sort took 26 microseconds
+8.Radix sort took 26 microseconds
+9.Radix sort took 26 microseconds
+
+
+Testing for 100 elements of which 10% are unique
+0.Radix sort took 31 microseconds
+1.Radix sort took 49 microseconds
+2.Radix sort took 48 microseconds
+3.Radix sort took 47 microseconds
+4.Radix sort took 76 microseconds
+5.Radix sort took 47 microseconds
+6.Radix sort took 47 microseconds
+7.Radix sort took 48 microseconds
+8.Radix sort took 79 microseconds
+9.Radix sort took 101 microseconds
+
+
+Testing for 1000 elements of which 10% are unique
+0.Radix sort took 0.32 milliseconds
+1.Radix sort took 0.45 milliseconds
+2.Radix sort took 0.52 milliseconds
+3.Radix sort took 0.58 milliseconds
+4.Radix sort took 0.42 milliseconds
+5.Radix sort took 0.41 milliseconds
+6.Radix sort took 0.56 milliseconds
+7.Radix sort took 0.55 milliseconds
+8.Radix sort took 0.53 milliseconds
+9.Radix sort took 0.41 milliseconds
+
+
+Testing for 10000 elements of which 10% are unique
+0.Radix sort took 2.54 milliseconds
+1.Radix sort took 4.07 milliseconds
+2.Radix sort took 4.05 milliseconds
+3.Radix sort took 4.75 milliseconds
+4.Radix sort took 4.25 milliseconds
+5.Radix sort took 4.15 milliseconds
+6.Radix sort took 4.05 milliseconds
+7.Radix sort took 4.89 milliseconds
+8.Radix sort took 4.64 milliseconds
+9.Radix sort took 4.34 milliseconds
+
+
+Testing for 50 reverse sorted elements
+0.Radix sort took 31 microseconds
+1.Radix sort took 68 microseconds
+2.Radix sort took 28 microseconds
+3.Radix sort took 41 microseconds
+4.Radix sort took 53 microseconds
+5.Radix sort took 29 microseconds
+6.Radix sort took 28 microseconds
+7.Radix sort took 29 microseconds
+8.Radix sort took 42 microseconds
+9.Radix sort took 53 microseconds
+
+
+Testing for 100 reverse sorted elements
+0.Radix sort took 72 microseconds
+1.Radix sort took 71 microseconds
+2.Radix sort took 71 microseconds
+3.Radix sort took 72 microseconds
+4.Radix sort took 94 microseconds
+5.Radix sort took 71 microseconds
+6.Radix sort took 71 microseconds
+7.Radix sort took 72 microseconds
+8.Radix sort took 73 microseconds
+9.Radix sort took 96 microseconds
+
+
+Testing for 1000 reverse sorted elements
+0.Radix sort took 0.82 milliseconds
+1.Radix sort took 0.96 milliseconds
+2.Radix sort took 1.17 milliseconds
+3.Radix sort took 0.85 milliseconds
+4.Radix sort took 1.26 milliseconds
+5.Radix sort took 0.97 milliseconds
+6.Radix sort took 1.06 milliseconds
+7.Radix sort took 0.99 milliseconds
+8.Radix sort took 1.09 milliseconds
+9.Radix sort took 1.12 milliseconds
+
+
+Testing for 10000 reverse sorted elements
+0.Radix sort took 10.73 milliseconds
+1.Radix sort took 10.43 milliseconds
+2.Radix sort took 11.41 milliseconds
+3.Radix sort took 11.34 milliseconds
+4.Radix sort took 12.61 milliseconds
+5.Radix sort took 11.08 milliseconds
+6.Radix sort took 11.25 milliseconds
+7.Radix sort took 11.13 milliseconds
+8.Radix sort took 11.51 milliseconds
+9.Radix sort took 13.21 milliseconds
+Testing for 50 sorted elements
+0.Shell sort took 403 microseconds
+1.Shell sort took 385 microseconds
+2.Shell sort took 380 microseconds
+3.Shell sort took 505 microseconds
+4.Shell sort took 383 microseconds
+5.Shell sort took 382 microseconds
+6.Shell sort took 382 microseconds
+7.Shell sort took 385 microseconds
+8.Shell sort took 382 microseconds
+9.Shell sort took 458 microseconds
+
+
+Testing for 100 sorted elements
+0.Shell sort took 1 millisecond and 891 microseconds
+1.Shell sort took 2 milliseconds and 239 microseconds
+2.Shell sort took 2 milliseconds and 325 microseconds
+3.Shell sort took 2 milliseconds and 348 microseconds
+4.Shell sort took 1 millisecond and 975 microseconds
+5.Shell sort took 1 millisecond and 963 microseconds
+6.Shell sort took 2 milliseconds and 54 microseconds
+7.Shell sort took 1 millisecond and 967 microseconds
+8.Shell sort took 2 milliseconds and 33 microseconds
+9.Shell sort took 2 milliseconds and 198 microseconds
+
+
+Testing for 1000 sorted elements
+0.Shell sort took 415.54 milliseconds
+1.Shell sort took 416.92 milliseconds
+2.Shell sort took 419.77 milliseconds
+3.Shell sort took 425.48 milliseconds
+4.Shell sort took 417.37 milliseconds
+5.Shell sort took 417.03 milliseconds
+6.Shell sort took 414.73 milliseconds
+7.Shell sort took 416.28 milliseconds
+8.Shell sort took 414.87 milliseconds
+9.Shell sort took 413.75 milliseconds
+
+
+Testing for 10000 sorted elements
+0.Shell sort took 1 minute, 13 seconds and 256.81 milliseconds
+1.Shell sort took 1 minute, 13 seconds and 712.01 milliseconds
+2.Shell sort took 1 minute, 14 seconds and 216.31 milliseconds
+3.Shell sort took 1 minute, 16 seconds and 139.65 milliseconds
+4.Shell sort took 1 minute, 14 seconds and 56.91 milliseconds
+5.Shell sort took 1 minute, 12 seconds and 581.20 milliseconds
+6.Shell sort took 1 minute, 12 seconds and 913.45 milliseconds
+7.Shell sort took 1 minute, 13 seconds and 14.43 milliseconds
+8.Shell sort took 1 minute, 13 seconds and 2.92 milliseconds
+9.Shell sort took 1 minute, 12 seconds and 890.12 milliseconds
+
+
+Testing for 50 random elements
+0.Shell sort took 388 microseconds
+1.Shell sort took 391 microseconds
+2.Shell sort took 568 microseconds
+3.Shell sort took 507 microseconds
+4.Shell sort took 383 microseconds
+5.Shell sort took 384 microseconds
+6.Shell sort took 384 microseconds
+7.Shell sort took 443 microseconds
+8.Shell sort took 384 microseconds
+9.Shell sort took 542 microseconds
+
+
+Testing for 100 random elements
+0.Shell sort took 1 millisecond and 958 microseconds
+1.Shell sort took 1 millisecond and 903 microseconds
+2.Shell sort took 2 milliseconds and 180 microseconds
+3.Shell sort took 1 millisecond and 887 microseconds
+4.Shell sort took 2 milliseconds and 276 microseconds
+5.Shell sort took 2 milliseconds and 185 microseconds
+6.Shell sort took 2 milliseconds and 213 microseconds
+7.Shell sort took 2 milliseconds and 144 microseconds
+8.Shell sort took 1 millisecond and 903 microseconds
+9.Shell sort took 2 milliseconds and 148 microseconds
+
+
+Testing for 1000 random elements
+0.Shell sort took 409.46 milliseconds
+1.Shell sort took 410.84 milliseconds
+2.Shell sort took 410.37 milliseconds
+3.Shell sort took 413.18 milliseconds
+4.Shell sort took 409.17 milliseconds
+5.Shell sort took 408.23 milliseconds
+6.Shell sort took 409.48 milliseconds
+7.Shell sort took 409.08 milliseconds
+8.Shell sort took 411.08 milliseconds
+9.Shell sort took 409.35 milliseconds
+
+
+Testing for 10000 random elements
+0.Shell sort took 1 minute, 13 seconds and 40.52 milliseconds
+1.Shell sort took 1 minute, 12 seconds and 45.07 milliseconds
+2.Shell sort took 1 minute, 12 seconds and 882.67 milliseconds
+3.Shell sort took 1 minute, 13 seconds and 462.72 milliseconds
+4.Shell sort took 1 minute, 13 seconds and 349.15 milliseconds
+5.Shell sort took 1 minute, 11 seconds and 840.96 milliseconds
+6.Shell sort took 1 minute, 11 seconds and 831.09 milliseconds
+7.Shell sort took 1 minute, 11 seconds and 724.30 milliseconds
+8.Shell sort took 1 minute, 11 seconds and 399.49 milliseconds
+9.Shell sort took 1 minute, 11 seconds and 420.43 milliseconds
+
+
+Testing for 50 mostly sorted elements
+0.Shell sort took 363 microseconds
+1.Shell sort took 418 microseconds
+2.Shell sort took 395 microseconds
+3.Shell sort took 381 microseconds
+4.Shell sort took 382 microseconds
+5.Shell sort took 524 microseconds
+6.Shell sort took 386 microseconds
+7.Shell sort took 383 microseconds
+8.Shell sort took 383 microseconds
+9.Shell sort took 383 microseconds
+
+
+Testing for 100 mostly sorted elements
+0.Shell sort took 1 millisecond and 948 microseconds
+1.Shell sort took 2 milliseconds and 61 microseconds
+2.Shell sort took 2 milliseconds and 314 microseconds
+3.Shell sort took 2 milliseconds and 339 microseconds
+4.Shell sort took 2 milliseconds and 3 microseconds
+5.Shell sort took 1 millisecond and 980 microseconds
+6.Shell sort took 2 milliseconds and 16 microseconds
+7.Shell sort took 1 millisecond and 964 microseconds
+8.Shell sort took 1 millisecond and 931 microseconds
+9.Shell sort took 2 milliseconds and 247 microseconds
+
+
+Testing for 1000 mostly sorted elements
+0.Shell sort took 404.14 milliseconds
+1.Shell sort took 403.59 milliseconds
+2.Shell sort took 405.00 milliseconds
+3.Shell sort took 403.09 milliseconds
+4.Shell sort took 404.84 milliseconds
+5.Shell sort took 402.37 milliseconds
+6.Shell sort took 403.17 milliseconds
+7.Shell sort took 408.26 milliseconds
+8.Shell sort took 402.72 milliseconds
+9.Shell sort took 404.00 milliseconds
+
+
+Testing for 10000 mostly sorted elements
+0.Shell sort took 1 minute, 11 seconds and 682.11 milliseconds
+1.Shell sort took 1 minute, 11 seconds and 886.41 milliseconds
+2.Shell sort took 1 minute, 12 seconds and 17.04 milliseconds
+3.Shell sort took 1 minute, 12 seconds and 477.29 milliseconds
+4.Shell sort took 1 minute, 11 seconds and 542.54 milliseconds
+5.Shell sort took 1 minute, 11 seconds and 411.74 milliseconds
+6.Shell sort took 1 minute, 11 seconds and 681.96 milliseconds
+7.Shell sort took 1 minute, 11 seconds and 840.20 milliseconds
+8.Shell sort took 1 minute, 12 seconds and 481.46 milliseconds
+9.Shell sort took 1 minute, 12 seconds and 720.72 milliseconds
+
+
+Testing for 50 elements of which 10% are unique
+0.Shell sort took 391 microseconds
+1.Shell sort took 392 microseconds
+2.Shell sort took 387 microseconds
+3.Shell sort took 388 microseconds
+4.Shell sort took 387 microseconds
+5.Shell sort took 387 microseconds
+6.Shell sort took 477 microseconds
+7.Shell sort took 524 microseconds
+8.Shell sort took 466 microseconds
+9.Shell sort took 432 microseconds
+
+
+Testing for 100 elements of which 10% are unique
+0.Shell sort took 2 milliseconds and 294 microseconds
+1.Shell sort took 2 milliseconds and 313 microseconds
+2.Shell sort took 1 millisecond and 984 microseconds
+3.Shell sort took 1 millisecond and 906 microseconds
+4.Shell sort took 2 milliseconds and 288 microseconds
+5.Shell sort took 1 millisecond and 906 microseconds
+6.Shell sort took 2 milliseconds and 7 microseconds
+7.Shell sort took 2 milliseconds and 380 microseconds
+8.Shell sort took 2 milliseconds and 513 microseconds
+9.Shell sort took 2 milliseconds and 221 microseconds
+
+
+Testing for 1000 elements of which 10% are unique
+0.Shell sort took 406.48 milliseconds
+1.Shell sort took 400.21 milliseconds
+2.Shell sort took 405.21 milliseconds
+3.Shell sort took 407.12 milliseconds
+4.Shell sort took 403.87 milliseconds
+5.Shell sort took 407.31 milliseconds
+6.Shell sort took 406.46 milliseconds
+7.Shell sort took 406.56 milliseconds
+8.Shell sort took 405.44 milliseconds
+9.Shell sort took 409.58 milliseconds
+
+
+Testing for 10000 elements of which 10% are unique
+0.Shell sort took 1 minute, 11 seconds and 216.09 milliseconds
+1.Shell sort took 1 minute, 11 seconds and 629.76 milliseconds
+2.Shell sort took 1 minute, 11 seconds and 249.98 milliseconds
+3.Shell sort took 1 minute, 11 seconds and 161.41 milliseconds
+4.Shell sort took 1 minute, 10 seconds and 868.23 milliseconds
+5.Shell sort took 1 minute, 10 seconds and 636.87 milliseconds
+6.Shell sort took 1 minute, 11 seconds and 108.73 milliseconds
+7.Shell sort took 1 minute, 12 seconds and 169.73 milliseconds
+8.Shell sort took 1 minute, 11 seconds and 775.20 milliseconds
+9.Shell sort took 1 minute, 11 seconds and 864.18 milliseconds
+
+
+Testing for 50 reverse sorted elements
+0.Shell sort took 480 microseconds
+1.Shell sort took 382 microseconds
+2.Shell sort took 383 microseconds
+3.Shell sort took 460 microseconds
+4.Shell sort took 500 microseconds
+5.Shell sort took 382 microseconds
+6.Shell sort took 472 microseconds
+7.Shell sort took 473 microseconds
+8.Shell sort took 382 microseconds
+9.Shell sort took 384 microseconds
+
+
+Testing for 100 reverse sorted elements
+0.Shell sort took 1 millisecond and 885 microseconds
+1.Shell sort took 1 millisecond and 947 microseconds
+2.Shell sort took 2 milliseconds and 23 microseconds
+3.Shell sort took 1 millisecond and 950 microseconds
+4.Shell sort took 2 milliseconds and 448 microseconds
+5.Shell sort took 2 milliseconds and 270 microseconds
+6.Shell sort took 2 milliseconds and 131 microseconds
+7.Shell sort took 1 millisecond and 960 microseconds
+8.Shell sort took 1 millisecond and 894 microseconds
+9.Shell sort took 2 milliseconds and 161 microseconds
+
+
+Testing for 1000 reverse sorted elements
+0.Shell sort took 405.61 milliseconds
+1.Shell sort took 407.75 milliseconds
+2.Shell sort took 405.01 milliseconds
+3.Shell sort took 406.59 milliseconds
+4.Shell sort took 406.97 milliseconds
+5.Shell sort took 404.22 milliseconds
+6.Shell sort took 407.69 milliseconds
+7.Shell sort took 400.40 milliseconds
+8.Shell sort took 399.40 milliseconds
+9.Shell sort took 404.30 milliseconds
+
+
+Testing for 10000 reverse sorted elements
+0.Shell sort took 1 minute, 11 seconds and 332.15 milliseconds
+1.Shell sort took 1 minute, 11 seconds and 628.88 milliseconds
+2.Shell sort took 1 minute, 12 seconds and 135.95 milliseconds
+3.Shell sort took 1 minute, 15 seconds and 278.42 milliseconds
+4.Shell sort took 1 minute, 13 seconds and 339.36 milliseconds
+5.Shell sort took 1 minute, 12 seconds and 168.60 milliseconds
+6.Shell sort took 1 minute, 12 seconds and 42.84 milliseconds
+7.Shell sort took 1 minute, 13 seconds and 100.46 milliseconds
+8.Shell sort took 1 minute, 13 seconds and 644.72 milliseconds
+9.Shell sort took 1 minute, 12 seconds and 689.36 milliseconds
+
+
+The entire sort took 1 hour, 9 minutes and 42.47 seconds
