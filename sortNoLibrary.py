@@ -246,10 +246,11 @@ reversed10000 = [
 
 
 
-
+import sys
 import csv
 from datetime import datetime
 
+sys.setrecursionlimit(10100)
 f = open("out.csv", "w")
 writer = csv.writer(f)
 csvOut = [["Name", "Type", "Test 1", "Test 2", "Test 3", "Test 4", "Test 5", "Test 6", "Test 7", "Test 8", "Test 9", "Test 10", "Average"]]
@@ -263,12 +264,16 @@ def bubbleSort(array, unit, sortType):
 		
 		n = len(arr)
 		for i in range(n):
+			con = False
 			for j in range(0, n-i-1):
 				if arr[j] > arr[j+1] :
 					arr[j], arr[j+1] = arr[j+1], arr[j]
-			
+					con = True
+					
+			if con == False:
+				break
 		endTime = datetime.now()
-		delta = (endTime - startTime).total_seconds() * 1000
+		delta = (endTime - startTime).total_seconds() 
 		average.append((endTime - startTime).total_seconds())
 		print("%d.Bubble sort took" %(count), delta)
 		count += 1
@@ -295,7 +300,7 @@ def selectionSort(array, unit, sortType):
 			arr[i], arr[min_idx] = arr[min_idx], arr[i]
 			
 		endTime = datetime.now()
-		delta = (endTime - startTime).total_seconds() * 1000
+		delta = (endTime - startTime).total_seconds() 
 		average.append((endTime - startTime).total_seconds())
 		print("%d.Selection sort took" %(count), delta)
 		count += 1
@@ -325,7 +330,7 @@ def insertionSort(array, unit, sortType):
 			arr[j + 1] = key
         
 		endTime = datetime.now()
-		delta = (endTime - startTime).total_seconds() * 1000
+		delta = (endTime - startTime).total_seconds() 
 		average.append((endTime - startTime).total_seconds())
 		print("%d.Insertion sort took" %(count), delta)
 		count += 1
@@ -376,7 +381,7 @@ def mergeSort(array, unit, sortType):
 		mergeSort2(arr)
 	
 		endTime = datetime.now()
-		delta = (endTime - startTime).total_seconds() * 1000
+		delta = (endTime - startTime).total_seconds() 
 		average.append((endTime - startTime).total_seconds())
 		print("%d.Merge sort took" %(count), delta)
 		count += 1
@@ -421,7 +426,7 @@ def quickSort(array, unit, sortType):
 			continue
 			
 		endTime = datetime.now()
-		delta = (endTime - startTime).total_seconds() * 1000
+		delta = (endTime - startTime).total_seconds() 
 		average.append((endTime - startTime).total_seconds())
 		print("%d.Quick sort took" %(count), delta)
 		count += 1
@@ -467,7 +472,7 @@ def heapSort(array, unit, sortType):
 			heapify(arr, i, 0)
         
 		endTime = datetime.now()
-		delta = (endTime - startTime).total_seconds() * 1000
+		delta = (endTime - startTime).total_seconds() 
 		average.append((endTime - startTime).total_seconds())
 		print("%d.Heap sort took" %(count), delta)
 		count += 1
@@ -501,7 +506,7 @@ def countingSort(array, unit, sortType):
 
   
 		endTime = datetime.now()
-		delta = (endTime - startTime).total_seconds() * 1000
+		delta = (endTime - startTime).total_seconds()
 		average.append((endTime - startTime).total_seconds())
 		print("%d.Counting sort took" %(count), delta)
 		count += 1
@@ -550,7 +555,7 @@ def radixSort(array, unit, sortType):
 		#return [-x for x in reversed(negative_ints)] + positive_ints
 
 		endTime = datetime.now()
-		delta = (endTime - startTime).total_seconds() * 1000
+		delta = (endTime - startTime).total_seconds() 
 		average.append((endTime - startTime).total_seconds())
 		print("%d.Radix sort took" %(count), delta)
 		count += 1
@@ -590,7 +595,7 @@ def shellSort(array, unit, sortType):
 			gap //= 2        
 
 		endTime = datetime.now()
-		delta = (endTime - startTime).total_seconds() * 1000
+		delta = (endTime - startTime).total_seconds()
 		average.append((endTime - startTime).total_seconds())
 		print("%d.Shell sort took" %(count), delta)
 		count += 1
@@ -615,7 +620,7 @@ def testAlgorithm(name):
 	(name)(random1000, "milliseconds", "random1000")
 	print("\n\nTesting for 10000 random elements")
 	(name)(random10000, "milliseconds", "random10000")
-
+	
 	print("\n\nTesting for 50 sorted elements")
 	(name)(sorted50, "microseconds", "sorted50")
 	print("\n\nTesting for 100 sorted elements")
@@ -624,7 +629,7 @@ def testAlgorithm(name):
 	(name)(sorted1000, "milliseconds", "sorted1000")
 	print("\n\nTesting for 10000 sorted elements")
 	(name)(sorted10000, "milliseconds", "sorted10000")
-
+	
 	print("\n\nTesting for 50 reverse sorted elements")
 	(name)(reversed50, "microseconds", "reversed50")
 	print("\n\nTesting for 100 reverse sorted elements")
@@ -651,18 +656,18 @@ def testAlgorithm(name):
 	(name)(unique1000, "milliseconds", "unique1000")
 	print("\n\nTesting for 10000 elements of which 10% are unique")
 	(name)(unique10000, "milliseconds", "unique10000")
-
+	
 	  
 startSort = datetime.now()
 
-testAlgorithm(bubbleSort)
-testAlgorithm(selectionSort)
-testAlgorithm(insertionSort)
-testAlgorithm(mergeSort)
+#testAlgorithm(bubbleSort)
+#testAlgorithm(selectionSort)
+#testAlgorithm(insertionSort)
+#testAlgorithm(mergeSort)
 testAlgorithm(quickSort)
-testAlgorithm(heapSort)
-testAlgorithm(countingSort)
-testAlgorithm(radixSort)
+#testAlgorithm(heapSort)
+#testAlgorithm(countingSort)
+#testAlgorithm(radixSort)
 
 
 #testAlgorithm(shellSort)
