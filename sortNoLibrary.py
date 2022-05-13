@@ -660,14 +660,14 @@ def testAlgorithm(name):
 	  
 startSort = datetime.now()
 
-#testAlgorithm(bubbleSort)
-#testAlgorithm(selectionSort)
-#testAlgorithm(insertionSort)
-#testAlgorithm(mergeSort)
+testAlgorithm(bubbleSort)
+testAlgorithm(selectionSort)
+testAlgorithm(insertionSort)
+testAlgorithm(mergeSort)
 testAlgorithm(quickSort)
-#testAlgorithm(heapSort)
-#testAlgorithm(countingSort)
-#testAlgorithm(radixSort)
+testAlgorithm(heapSort)
+testAlgorithm(countingSort)
+testAlgorithm(radixSort)
 
 
 #testAlgorithm(shellSort)
