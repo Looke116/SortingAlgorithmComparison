@@ -1,7 +1,7 @@
 # Sorting Algorithm Comparison
 
 
-This is the repository for the paper on sorting algorithms. 
+This is the repository for the paper on sorting algorithms(a university project) and there will be no further updates. 
 
 The code is writen in python with some of the function modified to work on negative numbers. The file `sort.py` contains the code, it uses a custom library to allow me to output in a lot more human-readable format, you can find the library here https://github.com/python-humanize/humanize.
 
